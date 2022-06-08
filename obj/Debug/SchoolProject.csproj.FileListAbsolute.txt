@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\SchoolProject\SchoolProject\bin\Debug\SchoolProject.exe.config
+C:\Users\PC\source\repos\SchoolProject\SchoolProject\bin\Debug\SchoolProject.exe
+C:\Users\PC\source\repos\SchoolProject\SchoolProject\bin\Debug\SchoolProject.pdb
+C:\Users\PC\source\repos\SchoolProject\SchoolProject\obj\Debug\SchoolProject.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\SchoolProject\SchoolProject\obj\Debug\SchoolProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\SchoolProject\SchoolProject\obj\Debug\SchoolProject.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\SchoolProject\SchoolProject\obj\Debug\SchoolProject.exe
+C:\Users\PC\source\repos\SchoolProject\SchoolProject\obj\Debug\SchoolProject.pdb
+C:\Users\PC\source\repos\SchoolProject\SchoolProject\bin\Debug\Dapper.dll
+C:\Users\PC\source\repos\SchoolProject\SchoolProject\bin\Debug\Dapper.xml
+C:\Users\PC\source\repos\SchoolProject\SchoolProject\obj\Debug\SchoolProject.csproj.CopyComplete
